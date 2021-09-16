@@ -6,6 +6,9 @@ public class Testng {
 		
 		
 	}
+	private void tc0() {
+		System.out.println("123");
+	}
 	
 	
 	
