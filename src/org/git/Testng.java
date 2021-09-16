@@ -8,6 +8,10 @@ public class Testng {
 	}
 	private void tc0() {
 		System.out.println("123");
+		System.out.println("java");
+		System.out.println("selenium");
+		
+		
 	}
 	
 	
