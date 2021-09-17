@@ -13,7 +13,9 @@ public class Testng {
 		
 		
 	}
-	
+	private void name() {
+		System.out.println("Bernath");
+	}
 	
 	
 	
